@@ -10,9 +10,9 @@
 
 
 Live Signal
----
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YYYingk)](https://git.io/streak-stats)
----
+<p>
 
 ## 个人信息
 博客 ：[YYYing](https://www.csdn.net/?spm=1001.2014.3001.4476)
