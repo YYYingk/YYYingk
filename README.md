@@ -14,7 +14,7 @@ Live Signal
 
 
 ## 个人信息
-博客 ：[YYYing](https://www.csdn.net/?spm=1001.2014.3001.4476)
+博客 ：[YYYing]([https://www.csdn.net/?spm=1001.2014.3001.4476](https://blog.csdn.net/2501_93095927?spm=1000.2115.3001.5343))
 
 
 邮箱 ：2646060425@qq.com
