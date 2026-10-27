@@ -10,7 +10,7 @@
 
 
 Live Signal
-<center>[![GitHub Streak](https://streak-stats.demolab.com/?user=YYYingk)](https://git.io/streak-stats)</center>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YYYingk)](https://git.io/streak-stats)
 ---
 
 ## 个人信息
