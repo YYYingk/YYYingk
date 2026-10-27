@@ -2,7 +2,8 @@
 
 - C / C++ / Python / Go
 ---
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?YYYingk&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+| ![YYYingk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYingk&show_icons=true&theme=transparent) /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYYingk&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 ---
 Live Signal
 <center>[![GitHub Streak](https://streak-stats.demolab.com/?user=YYYingk)](https://git.io/streak-stats)</center>
