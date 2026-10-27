@@ -11,7 +11,7 @@
 
 Live Signal
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YYYingk)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=YYYingk)](https://git.io/streak-stats)
 <p>
 
 ## 个人信息
