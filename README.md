@@ -1,6 +1,6 @@
 ## Hi I`m YYYing 👋
 
-- A Back-end & Agent Learner
+- A Back-end & AI Agent Learner
 - C / C++ / Python / Go
 
 
